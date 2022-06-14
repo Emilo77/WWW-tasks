@@ -71,7 +71,7 @@ myFunctions.functionPart3 = (word) => {
 myFunctions.bonus = async () => {
   const urls = [
     'https://www.youtube.com/?hl=pl&gl=PL',
-    'https://www.wikipedia.org',
+    'https://github.com/',
     'https://www.facebook.com',
     'https://usosweb.mimuw.edu.pl/kontroler.php?_action=home/index',
     'https://moodle.mimuw.edu.pl/my/',
